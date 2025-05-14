@@ -1,7 +1,7 @@
 # robotika_beadando
 Robotika gyakorlat beadandó 2024/25 II. félév
 
-Törteli Márton EWYYN7
+Törteli Márton EWYYN7 és
 Fodor Győző Benedek CUK9HS
 
 Videó:
